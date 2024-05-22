@@ -1,0 +1,31 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\gupta\OneDrive\Desktop\Calculator\calcul.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gupta\OneDrive\Desktop\Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.002.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\gupta\AppData\Local\Microsoft\WindowsApps;C:\Users\gupta\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Java\jdk1.8.0_45\bin;C:\Program Files (x86)\Inno Setup 6;C:\MinGW\bin;;C:\Program Files (x86)\Java\jdk1.8.0_45\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\gupta\AppData\Local\Microsoft\WindowsApps;C:\Users\gupta\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Java\jdk1.8.0_45\bin;C:\Program Files (x86)\Inno Setup 6;C:\MinGW\bin;;C:\Program Files (x86)\Java\jdk1.8.0_45\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Users\gupta\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\gupta\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Java\jdk1.8.0_45\bin\javaw.exe (OK)
+Version string: 1.008.000_045 / 32-Bit (OK)
+Main class:	calcdemo
+Add classpath:	bin\lib\AbsoluteLayout.jar
+Launcher:	C:\Program Files (x86)\Java\jdk1.8.0_45\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\gupta\OneDrive\Desktop\Calculator\calcul.exe;bin\lib\AbsoluteLayout.jar" calcdemo
+Args length:	102/32768 chars
+Exit code:	0
